@@ -1,7 +1,7 @@
 // @flow
 var bla = require('./bla');
 
-var str: number = 'hello world!';
+var str: string = 'hello world!';
 
 function text(arg: string) {
     return "Hello world";
